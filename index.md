@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Ivan's CTF Blog
 
-You can use the [editor on GitHub](https://github.com/vanjo9800/ctf-writeups/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The usual intro... Hey I am Ivan, a cyber security enthusiast currently an undergraduate student in Computer Science at the University of Cambridge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have had a passion for _Capture the Flag_ competitions, or the so called _CTFs_, for a while and I have enjoyed solving various problems from past events online as well as participating in some CTFs myself. As a learner myself, I have found quite useful experienced people's blogs and write-ups of interesting challenges.
+Now I want contribute back to the community, so I am starting a blog of my own interesting challenges!
 
-### Markdown
+### Work in progress...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vanjo9800/ctf-writeups/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Any questions about the write-ups, or using the tools? Don't hesitate and get in touch on <ivan@vankata.tech>!
